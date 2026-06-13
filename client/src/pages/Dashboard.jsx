@@ -6,7 +6,7 @@ import Loading from '../components/Loading'
 import EmployeeDashboard from '../components/EmployeeDashboard'
 import AdminDashboard from '../components/AdminDashboard'
 
-
+/*dashboard*/
 const Dashboard = () => {
 
   const [data, setData] = useState(null)
